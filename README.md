@@ -1,4 +1,4 @@
-# aparesentacao_analise_estatistica_python
+# apresentacao_analise_estatistica_python
 
 Análise Estatística e Modelagem de Dados
 
